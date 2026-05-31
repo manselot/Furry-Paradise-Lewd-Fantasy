@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f083793a33241d5a",
+        "id": "e8f33106738dc9df",
         "type": "tabs",
         "children": [
           {
-            "id": "cdff4e60e8065f86",
+            "id": "6641da93f51e828b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "demo_story.canvas",
                 "viewState": {
-                  "x": 200.5616041360908,
-                  "y": -15531.709848505641,
-                  "zoom": -0.333333333333333
+                  "x": 1125.8595062805757,
+                  "y": 9417.820573534562,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -47,7 +47,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -177,6 +177,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "60aa15fc2694dfd6",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 5
@@ -187,16 +197,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdff4e60e8065f86",
-  "lastOpenFiles": []
+  "active": "6641da93f51e828b",
+  "lastOpenFiles": [
+    "demo_story.canvas"
+  ]
 }
