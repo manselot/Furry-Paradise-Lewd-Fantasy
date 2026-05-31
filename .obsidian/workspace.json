@@ -15,8 +15,8 @@
               "state": {
                 "file": "demo_story.canvas",
                 "viewState": {
-                  "x": 1480.356220722791,
-                  "y": -10707.725359703596,
+                  "x": 1554.9640701652963,
+                  "y": -10533.111243987094,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -207,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6641da93f51e828b",
+  "active": "bf3ef55bea83bce2",
   "lastOpenFiles": [
     "demo_story.canvas"
   ]
